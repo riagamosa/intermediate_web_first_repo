@@ -2,3 +2,13 @@ body{
     background-color: palevioletred;
     color: whitesmoke;
 }
+
+p#first{
+    color: purple;
+}
+
+.fun{
+    color: teal;
+    font-weight: bold;
+}
+
